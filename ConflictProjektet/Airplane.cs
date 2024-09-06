@@ -9,6 +9,8 @@ namespace ConflictProjektet
     public class Airplane
     {
         public int Altitude { get; }
+        public int NumberOfPassengers { get; }
+
         public string TypeName => "Flygplan";
 
         public double Speed => 1;
