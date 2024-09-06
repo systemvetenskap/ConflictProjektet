@@ -23,7 +23,7 @@ namespace ConflictProjektet
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            // nu är det din tur lisa
+            
         }
     }
 }
