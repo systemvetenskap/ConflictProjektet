@@ -10,6 +10,7 @@ namespace ConflictProjektet
     {
         public int Altitude { get; }
         public int NumberOfPassengers { get; }
+        public int NumberOfBags { get; }
 
         public string TypeName => "Flygplan";
 
