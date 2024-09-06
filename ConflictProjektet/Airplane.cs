@@ -22,7 +22,7 @@ namespace ConflictProjektet
         }
         public void CalculateFuelConsumption()
         {
-
+            if (NumberOfPassengers > 0) { return; }
         }
     }
 }
