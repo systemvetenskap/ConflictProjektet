@@ -19,5 +19,9 @@ namespace ConflictProjektet
         {
 
         }
+        public void CalculateFuelConsumption()
+        {
+
+        }
     }
 }
